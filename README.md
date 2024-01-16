@@ -1,4 +1,5 @@
 # DSP301x_asm2
+# git clone https://github.com/nctson/DSP301x_asm2.git
 Các bước hướng dẫn chạy file code:
 
 1. Dùng VSCode mở folder DSP301x_asm2_sonnctfx17947@funix.edu.vn.
